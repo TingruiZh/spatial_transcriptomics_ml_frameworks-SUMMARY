@@ -53,7 +53,7 @@ This repository summarizes recent machine learning (ML) frameworks applied in **
 - **UTAG**: Simple and fast; uses graph smoothing plus clustering.https://github.com/ElementoLab/utag.
 - **BANKSY**: Projects expression data with spatial filtering.https://github.com/prabhakarlab/Banksy_py
 - **SpatialTopic**: Uses topic modeling with collapsed Gibbs sampling.https://github.com/xiyupeng/SpaTopic/
-- **VGAE**: Variational Graph Autoencoder (basic form).github.com/tkipf/gae
+- **VGAE**: Variational Graph Autoencoder (basic form).https://github.com/tkipf/gae
 
 ---
 
